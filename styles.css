@@ -73,6 +73,7 @@ form {
     border: 1px solid #ccc;
     border-radius: 10px;
     text-align: center;
+   
   }
   
   .book-header {
@@ -124,5 +125,10 @@ form {
   }
 
   .read-status {
-    background-color:rgb(145, 145, 226);
+    background-color:rgb(185, 235, 196);
+  }
+
+  .remove-btn, .toggle-read-btn {
+    background-color:rgb(185, 235, 196);
+    font-size: 10px;
   }
